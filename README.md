@@ -4,6 +4,8 @@ Overview and Objectives
 Goal - Build a cloud based home lab through Microsoft Azure where I create and configure a VM to where it is open to the public, acting as a honeypot. Utilize SIEM tools such as Sentinel to monitor attacker activity and gain information on real attackers.
 Tools - Azure Virtual Machine, log analytics, Microsoft Sentinel(Azure SIEM), Threat detection workflows
 
+Here Is a hand drawn diagram of what my environment setup looks like. I used this for reference before I began the actual lab setup. 
+
 Azure Setup and VM Configuration
 1. In Azure, created new resource groups so all of my materials from the lab are organized in one place
 2. Created a new windows virtual machine which would function as a honeypot for attackers around the net, configured its size, region, network settings, and authentication methods
