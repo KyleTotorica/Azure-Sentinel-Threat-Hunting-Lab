@@ -38,5 +38,6 @@ Added Location Functionality
 
 Taking Location Data and Aggregating it into an Attack Map
 1. To create a visual map of the new location data I created a new workbook in sentinal and configured a JSON script that would create a visual of the attack vectors
-![map](images/AttackMapLocationOfLogins.png)
-2. Doing this aggregated all of the security log data and turned it into a visula making it easy to see where each incident was occurring from. In this case there were a high concentration of attack originating from Argentina, The Netherlands, and Poland.
+![map](images/1.png)
+![map](images/2.png)
+3. Doing this aggregated all of the security log data and turned it into a visula making it easy to see where each incident was occurring from. In this case there were a high concentration of attack originating from Argentina, The Netherlands, and Poland.
